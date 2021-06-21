@@ -24,3 +24,4 @@ For tracking answers.txt changes > git blame answers.txt or git diff answers.txt
 For tracking whole repository changes in > git log
 comparison between commits > git diff Head^^ (current commit and 2 commit before)
 
+final project part 6 answer
